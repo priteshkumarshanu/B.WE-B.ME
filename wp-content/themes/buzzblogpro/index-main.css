@@ -1,0 +1,1772 @@
+@media (min-width: 1200px) {
+
+    .container,
+    .page .title-section,
+    .single .content-holder .single-title-section,
+    .container .wp-block-group__inner-container {
+        max-width: 1200px;
+    }
+
+    .fullwidth-widget .form-inline {
+        max-width: 1200px;
+    }
+
+    .single .content-holder .single-title-section {
+        width: 1200px;
+    }
+}
+
+@media(min-width:992px) {
+
+    .middle-boxed .owl-slide .cover-wrapper,
+    .middle .owl-slide .cover-wrapper,
+    .bottom .owl-slide .cover-wrapper,
+    .normal-slideshow .cover-wrapper {
+        height: 600px !important;
+    }
+
+    .carousel-wrap.top-slideshow {
+        min-height: 600px;
+    }
+}
+
+@media only screen and (min-width:768px) and (max-width:991px) {
+
+    .middle-boxed .owl-slide .cover-wrapper,
+    .middle .owl-slide .cover-wrapper,
+    .bottom .owl-slide .cover-wrapper,
+    .normal-slideshow .cover-wrapper {
+        height: 300px !important;
+    }
+}
+
+@media(max-width:767px) {
+
+    .middle-boxed .owl-slide .cover-wrapper,
+    .middle .owl-slide .cover-wrapper,
+    .bottom .owl-slide .cover-wrapper,
+    .normal-slideshow .cover-wrapper {
+        height: 220px !important;
+    }
+}
+
+.primary-menu .has-mega-sub-menu .mega-sub-menu {
+    min-height: 361px;
+}
+
+.logo img {
+    width: 498px;
+}
+
+.split-menu .header .logo {
+    max-width: 498px;
+}
+
+.navbar-fixed .logo img {
+    width: px;
+}
+
+.split-menu .header .navbar-fixed .logo {
+    max-width: px;
+}
+
+.footer-logo .logo img {
+    width: 498px;
+}
+
+#primary {
+    border-top-color: #EFEAE5
+}
+
+#primary {
+    border-bottom-color: #EEEEEE
+}
+
+#primary {
+    border-top-width: 0px;
+}
+
+#primary {
+    border-bottom-width: 0px;
+}
+
+.single .single-header .meta-space-top,
+.single .single-header .meta-space-top a {
+    text-align: center !important;
+}
+
+.bigletter:before {
+    font-family: "Cormorant Garamond";
+}
+
+.lowestfooter {
+    border-top-color: transparent
+}
+
+.header-overlay {
+    background: rgba(255, 255, 255, 0.27)
+}
+
+.parallax-image:before {
+    background: rgba(0, 0, 0, 0.22)
+}
+
+.primary-menu ul li:not(.buzzblogpro-widget-menu)>ul {
+    top: -1px
+}
+
+.owl-slide .cover-wrapper.slide-sub-item-large {
+    border-right-color: #ffffff;
+}
+
+.owl-slide .cover-wrapper.slide-sub-item-small.middle {
+    border-bottom-color: #ffffff;
+}
+
+.owl-slide .cover-wrapper.slide-sub-item-small.last {
+    border-top-color: #ffffff;
+}
+
+.top-slideshow .cover:before {
+    background:
+}
+
+.top-slideshow .cover:before {
+    opacity: ;
+}
+
+body {
+    background-color: #ffffff;
+}
+
+.buzzblogpro-mc-form h4 {
+    font-size: 20px;
+    line-height: 20px;
+}
+
+.post_category:after,
+.hs_aboutme_text span,
+.slide-category span,
+.widget-content h4.subtitle span,
+.nav-tabs>li.active>a,
+.nav-tabs>li.active>a:hover,
+.nav-tabs>li.active>a:focus,
+.title-section span,
+.heading-entrance span {
+    border-top-color: #ccb391
+}
+
+.mailchimp-alert,
+.consent-check input[type="checkbox"]:checked+label::before {
+    background: #ccb391
+}
+
+.error404-holder_num,
+.twitter-list i,
+.hercules-likes:hover:before,
+.hercules-likes.active:before {
+    color: #ccb391
+}
+
+.icon-menu .icon-menu-count,
+.audioplayer-bar-played,
+.audioplayer-volume-adjust div div,
+#back-top a:hover span,
+.owl-carousel .owl-dots .owl-dot.active span,
+.owl-carousel .owl-dots .owl-dot:hover span,
+.link-image a .link-wrapper,
+.widget_calendar tbody a,
+.text-highlight,
+div.jp-play-bar,
+div.jp-volume-bar-value,
+.progress .bar,
+.buzzblogpro-cart .badge,
+.mobile-shopping-cart .badge,
+.share-buttons .heart span {
+    background: #ccb391
+}
+
+.hs_recent_popular_tab_widget_content .tab_title.selected a,
+.search-option-tab li:hover a,
+.search-option-tab li.active a {
+    border-bottom: 1px solid #ccb391
+}
+
+.consent-check input[type="checkbox"]:checked+label::before,
+.consent-check label::before {
+    border: 1px solid #ccb391
+}
+
+.primary-menu ul li:not(.buzzblogpro-widget-menu):hover>a,
+.primary-menu .has-mega-column:not(.widget-in-menu)>.sub-menu a:hover,
+.primary-menu .has-mega-column>.sub-menu>.columns-sub-item>a:hover,
+.primary-menu li ul li.active-link:not(.buzzblogpro-widget-menu) a {
+    color: #ccb391
+}
+
+.primary-menu ul li.current-menu-item:not(.buzzblogpro-widget-menu)>a,
+.primary-menu .has-mega-column:not(.widget-in-menu)>.sub-menu .current-menu-item>a {
+    color: #ccb391
+}
+
+.menu-mobile ul li.current-menu-item>a,
+.menu-mobile ul li.current-menu-ancestor>a {
+    color: #ccb391
+}
+
+.primary-menu>li>a:hover,
+.primary-menu>li.current-menu-item>a,
+.primary-menu>li.current-menu-ancestor>a,
+.primary-menu li:hover>a,
+.primary-menu .mega-menu-posts .post a:hover {
+    color: #ccb391
+}
+
+.primary-menu>li.current-menu-item>a,
+.primary-menu>li.current-menu-ancestor>a {
+    color: #ccb391
+}
+
+.primary-menu>li>a {
+    background: transparent;
+}
+
+.primary-menu>li>a:hover,
+.primary-menu>li.current-menu-item>a,
+.primary-menu>li.current-menu-ancestor>a,
+.primary-menu li:hover>a {
+    background: transparent;
+}
+
+.primary-menu>li.current-menu-item>a,
+.primary-menu>li.current-menu-ancestor>a {
+    background: transparent;
+}
+
+.widget-in-menu .grid .grid-item .post-header h2 a,
+.widget-in-menu .grid .grid-item h2.post-title,
+.widget-in-menu .post-grid-block h2.grid-post-title a,
+.widget-in-menu .post-grid-block h2.grid-post-title {
+    color: #4d4d4d
+}
+
+.animated-border-effect .primary-menu>li>a:before {
+    background: #CCB391;
+}
+
+.primary-menu .has-sub-menu:not(.no-sub-menu) .mega-menu-posts,
+.megamenu-submenu-left .primary-menu .has-sub-menu:not(.no-sub-menu) .mega-menu-posts,
+.primary-menu ul li:not(.buzzblogpro-widget-menu) a,
+.primary-menu .has-mega-sub-menu .mega-sub-menu ul,
+.primary-menu .has-mega-column>.sub-menu>.columns-sub-item>a,
+#cart-wrap {
+    border-color: #F0EBE6
+}
+
+#top-menu ul {
+    background: rgba(255, 255, 255, 1)
+}
+
+#top-menu ul a,
+#top-menu .current_page_item ul a,
+#top-menu ul .current_page_item a,
+#top-menu .current-menu-item ul a,
+#top-menu ul .current-menu-item a,
+#top-menu li:hover>ul a {
+    border-color: #EFEAE5
+}
+
+.top-border {
+    background: #EFEAE5
+}
+
+.modern-layout .meta-space-top a,
+.modern-layout .meta-space-top,
+.post .modern-layout .post_category a,
+.modern-layout .meta-space-top,
+.parallax-image .category-box span,
+.parallax-image .category-filter a,
+.parallax-image .cat-des,
+.parallax-image .title-section h2,
+.modern-layout .title-section h2,
+.modern-layout h2.post-subtitle {
+    color: #ffffff
+}
+
+.modern-layout h1.post-title,
+.parallax-image .title-section h1 {
+    color: #ffffff
+}
+
+.ribbon-featured {
+    color: #000000
+}
+
+.ribbon-featured {
+    background: #efeae5
+}
+
+.category-filter ul li.current-cat a,
+.category-filter ul li.current-cat-ancestor a {
+    color: #000000
+}
+
+#cart-wrap .but-cart:hover,
+.footer .instagram-footer .readmore-button a:hover,
+a.comment-reply-link:hover,
+input[type="submit"]:hover,
+input[type="button"]:hover,
+.btn-default.active,
+.btn-default.focus,
+.btn-default:active,
+.btn-default:focus,
+.btn-default:hover,
+.open>.dropdown-toggle.btn-default,
+.category-filter ul li.current-cat a,
+.category-filter ul li.current-cat-ancestor a,
+.category-filter ul li a:hover,
+.woocommerce #review_form #respond .form-submit input:hover,
+.woocommerce .widget_price_filter .price_slider_amount .button:hover,
+.woocommerce div.product form.cart .button:hover,
+.woocommerce #respond input#submit:hover,
+.woocommerce #respond input#submit.alt,
+.woocommerce a.button:hover,
+.woocommerce a.button.alt:hover,
+.woocommerce button.button.alt:hover,
+.woocommerce input.button.alt:hover,
+.woocommerce button.button:hover,
+.woocommerce input.button:hover {
+    border-color: #f0ebe6
+}
+
+#cart-wrap .but-cart,
+.footer .instagram-footer .readmore-button a,
+a.btn,
+a.comment-reply-link,
+input[type="submit"],
+input[type="button"],
+.category-filter ul li a,
+.woocommerce #review_form #respond .form-submit input,
+.woocommerce .widget_price_filter .price_slider_amount .button,
+.woocommerce div.product form.cart .button,
+.woocommerce #respond input#submit,
+.woocommerce #respond input#submit.alt,
+.woocommerce a.button,
+.woocommerce a.button.alt,
+.woocommerce button.button.alt,
+.woocommerce input.button.alt,
+.woocommerce button.button,
+.woocommerce input.button {
+    background: #f0ebe6
+}
+
+#cart-wrap .but-cart:hover,
+.footer .instagram-footer .readmore-button a:hover,
+a.comment-reply-link:hover,
+input[type="submit"]:hover,
+input[type="button"]:hover,
+.btn-default.active,
+.btn-default.focus,
+.btn-default:active,
+.btn-default:focus,
+.btn-default:hover,
+.open>.dropdown-toggle.btn-default,
+.category-filter ul li.current-cat a,
+.category-filter ul li.current-cat-ancestor a,
+.category-filter ul li a:hover,
+.woocommerce #review_form #respond .form-submit input:hover,
+.woocommerce .widget_price_filter .price_slider_amount .button:hover,
+.woocommerce div.product form.cart .button:hover,
+.woocommerce #respond input#submit:hover,
+.woocommerce #respond input#submit.alt,
+.woocommerce a.button:hover,
+.woocommerce a.button.alt:hover,
+.woocommerce button.button.alt:hover,
+.woocommerce input.button.alt:hover,
+.woocommerce button.button:hover,
+.woocommerce input.button:hover {
+    background: #ffffff
+}
+
+.viewpost-button a.button {
+    border-color: #efeae5
+}
+
+.viewpost-button a.button:hover {
+    border-color: #efeae5
+}
+
+.viewpost-button a.button {
+    background: #efeae5
+}
+
+.viewpost-button a.button:hover {
+    background: #ffffff
+}
+
+a.slideshow-btn:hover {
+    border-color: #f0ebe6
+}
+
+a.slideshow-btn {
+    background: #f0ebe6
+}
+
+a.slideshow-btn:hover {
+    background: #ffffff
+}
+
+.top-slideshow .cover .cover-link {
+    display: none;
+}
+
+.page-numbers li a {
+    border-color: #000000
+}
+
+.page-numbers .current {
+    color: #ffffff
+}
+
+.page-numbers .current {
+    border-color: #000000
+}
+
+.page-numbers .current {
+    background: #000000
+}
+
+.page-numbers li a:hover {
+    border-color: #000000
+}
+
+.page-numbers li a {
+    background: #ffffff
+}
+
+.page-numbers li a:hover {
+    background: #000000
+}
+
+.icon-menu a {
+    line-height: 20px;
+}
+
+.icon-menu a {
+    color: #000000;
+}
+
+.nav-icon4 span,
+.nav-icon4 span:before,
+.nav-icon4 span:after {
+    background-color: #000000;
+}
+
+.side-icons .nav-icon4 span:before,
+.side-icons .nav-icon4 span:after {
+    background-color: #000000;
+}
+</style>
+<link rel='stylesheet' id='font-awesome-css'
+href='wp-content/plugins/elementor/assets/lib/font-awesome/css/font-awesome.min.css' type='text/css'
+media='all' />
+<link rel='stylesheet' id='redux-field-social-profiles-frontend-css'
+href='wp-content/plugins/hercules-core/redux/redux-pro/core/inc/extensions/social_profiles/social_profiles/css/field_social_profiles_frontend.5.dela'
+type='text/css' media='all' /><noscript></noscript>
+<script type='text/javascript' src='wp-includes/js/jquery/jquery.min.js' id='jquery-core-js'></script>
+<script defer type='text/javascript' src='wp-includes/js/jquery/jquery-migrate.min.js'
+id='jquery-migrate-js'></script>
+<meta name="framework" content="Redux 4.3.2" />
+<style id="buzzblogpro_options-dynamic-css" title="dynamic-css" class="redux-options-output">
+.main-holder,
+.buzzblogpro-cookie-banner-wrap,
+.mfp-wrap,
+.social_label,
+.sidepanel {
+    font-family: "Cormorant Garamond";
+    line-height: 26px;
+    letter-spacing: 0px;
+    font-weight: 400;
+    font-style: normal;
+    color: #000000;
+    font-size: 19px;
+    font-display: swap;
+}
+
+h1 {
+    font-family: "Cormorant Garamond";
+    text-align: left;
+    text-transform: none;
+    line-height: 62px;
+    letter-spacing: -1px;
+    font-weight: 700;
+    font-style: normal;
+    color: #000000;
+    font-size: 54px;
+    font-display: swap;
+}
+
+h2 {
+    font-family: "Cormorant Garamond";
+    text-align: inherit;
+    text-transform: none;
+    line-height: 48px;
+    letter-spacing: -1px;
+    font-weight: 700;
+    font-style: normal;
+    color: #000000;
+    font-size: 46px;
+    font-display: swap;
+}
+
+h3 {
+    font-family: "Cormorant Garamond";
+    text-align: inherit;
+    text-transform: none;
+    line-height: 48px;
+    letter-spacing: 0px;
+    font-weight: 400;
+    font-style: normal;
+    color: #000000;
+    font-size: 44px;
+    font-display: swap;
+}
+
+h4 {
+    font-family: "Cormorant Garamond";
+    text-align: inherit;
+    text-transform: none;
+    line-height: 30px;
+    letter-spacing: 0px;
+    font-weight: 700;
+    font-style: normal;
+    color: #000000;
+    font-size: 20px;
+    font-display: swap;
+}
+
+h5 {
+    font-family: "Cormorant Garamond";
+    text-align: inherit;
+    text-transform: none;
+    line-height: 20px;
+    letter-spacing: 0px;
+    font-weight: 700;
+    font-style: normal;
+    color: #000000;
+    font-size: 18px;
+    font-display: swap;
+}
+
+h6 {
+    font-family: "Cormorant Garamond";
+    text-align: inherit;
+    text-transform: none;
+    line-height: 22px;
+    letter-spacing: 0px;
+    font-weight: 700;
+    font-style: normal;
+    color: #020202;
+    font-size: 16px;
+    font-display: swap;
+}
+
+.headerstyler {
+    background-color: #ffffff;
+    background-repeat: repeat;
+    background-attachment: scroll;
+    background-position: left top;
+    background-size: inherit;
+}
+
+#top-menu a {
+    font-family: Poppins;
+    text-align: left;
+    text-transform: none;
+    letter-spacing: 2px;
+    font-weight: 600;
+    font-style: normal;
+    font-size: 10px;
+    font-display: swap;
+}
+
+#top-menu a {
+    color: #212121;
+}
+
+#top-menu a:hover {
+    color: #ccb391;
+}
+
+#top-menu a:active {
+    color: #ccb391;
+}
+
+#top-menu ul a,
+#top-menu .current_page_item ul a,
+#top-menu ul .current_page_item a,
+#top-menu .current-menu-item ul a,
+#top-menu ul .current-menu-item a,
+#top-menu li:hover>ul a,
+.before_the_blog_content .hs_recent_popular_tab_widget_content .tab_title.selected a {
+    color: #212121;
+}
+
+#top-menu ul a:hover,
+#top-menu .current_page_item ul a:hover,
+#top-menu ul .current_page_item a:hover,
+#top-menu .current-menu-item ul a:hover,
+#top-menu ul .current-menu-item a:hover,
+#top-menu li:hover>ul a:hover,
+.before_the_blog_content .hs_recent_popular_tab_widget_content .tab_title.selected a:hover {
+    color: #ccb391;
+}
+
+#top-menu ul a:active,
+#top-menu .current_page_item ul a:active,
+#top-menu ul .current_page_item a:active,
+#top-menu .current-menu-item ul a:active,
+#top-menu ul .current-menu-item a:active,
+#top-menu li:hover>ul a:active,
+.before_the_blog_content .hs_recent_popular_tab_widget_content .tab_title.selected a:active {
+    color: #ccb391;
+}
+
+.top-widget-left a,
+.top-widget-right a,
+.top-left a,
+.top-right a {
+    color: #212121;
+}
+
+.top-widget-left a:hover,
+.top-widget-right a:hover,
+.top-left a:hover,
+.top-right a:hover {
+    color: #ccb391;
+}
+
+.top-border {
+    border-bottom: 0px solid #efeae5;
+}
+
+.top-full,
+.top-left,
+.top-right,
+.top-full .widget_search input[type="text"],
+.top-left .widget_search input[type="text"],
+.top-left .widget_search input[type="text"],
+.mobile-top-panel {
+    font-family: Poppins;
+    text-transform: none;
+    letter-spacing: 2px;
+    font-weight: 600;
+    font-style: normal;
+    color: #212121;
+    font-size: 12px;
+    font-display: swap;
+}
+
+.top-container-full .top-left,
+.top-container-full .top-right,
+.top-container-full .top-left .widget_search input[type="text"],
+.top-container-full .top-right .widget_search input[type="text"],
+.top-container-full .top-left a,
+.top-container-full .top-right a {
+    font-family: Poppins;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    font-weight: 600;
+    font-style: normal;
+    font-size: 12px;
+    font-display: swap;
+}
+
+a {
+    color: #000000;
+}
+
+a:hover {
+    color: #cc9c6a;
+}
+
+.single .post_content .isopad a:not(.pinimage):not(.pinterest-share-icon):not(.hs-icon):not(.nolightbox):not(.opengallery-link)not(.btn),
+.page .post-inner a:not(.btn):not(.pinimage):not(.pinterest-share-icon):not(.hs-icon):not(.nolightbox):not(.opengallery-link):not(.button):not(.post-title-link):not(.post-title):not(.instagram-follow-btn),
+.underlined_links a:not(.pinimage):not(.pinterest-share-icon):not(.opengallery-link) {
+    color: #ccb391;
+}
+
+.single .post_content .isopad a:not(.pinimage):not(.pinterest-share-icon):not(.hs-icon):not(.nolightbox):not(.opengallery-link)not(.btn):hover,
+.page .post-inner a:not(.btn):not(.pinimage):not(.pinterest-share-icon):not(.hs-icon):not(.nolightbox):not(.opengallery-link):not(.button):not(.post-title-link):not(.post-title):not(.instagram-follow-btn):hover,
+.underlined_links a:not(.pinimage):not(.pinterest-share-icon):not(.opengallery-link):hover {
+    color: #cc9c6a;
+}
+
+a.body-link:after,
+span.body-link a:after,
+.underlined_links a:not(.pinimage):not(.pinterest-share-icon):not(.hs-icon):after {
+    background: #ccb391;
+}
+
+.underlined_links a:not(.pinimage):not(.pinterest-share-icon):not(.hs-icon):hover,
+.single .post_content .isopad .underlined_links a:not(.pinimage):not(.pinterest-share-icon):not(.hs-icon):hover,
+.single .post_content .isopad a.body-link:not(.pinimage):not(.pinterest-share-icon):hover,
+.page .post-inner a.body-link:not(.btn):hover,
+.page .post-inner .underlined_links a:not(.btn):hover {
+    color: #ffffff;
+}
+
+input[type="button"],
+input[type="reset"],
+input[type="submit"],
+a.btn,
+a.slideshow-btn {
+    font-family: "Cormorant Garamond";
+    text-transform: uppercase;
+    line-height: 18px;
+    letter-spacing: 0px;
+    font-weight: 700;
+    font-style: normal;
+    font-size: 14px;
+    font-display: swap;
+}
+
+#cart-wrap .but-cart,
+.woocommerce #respond input#submit.alt,
+.woocommerce a.button.alt,
+.woocommerce button.button.alt,
+.woocommerce input.button.alt,
+.footer .instagram-footer .readmore-button a,
+a.btn,
+a.comment-reply-link,
+input[type="submit"],
+input[type="button"],
+.category-filter ul li a,
+.woocommerce #review_form #respond .form-submit input,
+.woocommerce .widget_price_filter .price_slider_amount .button,
+.woocommerce div.product form.cart .button,
+.woocommerce #respond input#submit,
+.woocommerce a.button,
+.woocommerce button.button,
+.woocommerce input.button {
+    color: #000000;
+}
+
+#cart-wrap .but-cart:hover,
+.woocommerce #respond input#submit.alt:hover,
+.woocommerce a.button.alt:hover,
+.woocommerce button.button.alt:hover,
+.woocommerce input.button.alt:hover,
+.footer .instagram-footer .readmore-button a:hover,
+a.btn:hover,
+a.comment-reply-link:hover,
+input[type="submit"]:hover,
+input[type="button"]:hover,
+.category-filter ul li a:hover,
+.woocommerce #review_form #respond .form-submit input:hover,
+.woocommerce .widget_price_filter .price_slider_amount .button:hover,
+.woocommerce div.product form.cart .button:hover,
+.woocommerce #respond input#submit:hover,
+.woocommerce a.button:hover,
+.woocommerce button.button:hover,
+.woocommerce input.button:hover {
+    color: #000000;
+}
+
+#cart-wrap .but-cart,
+.woocommerce #respond input#submit.alt,
+.woocommerce a.button.alt,
+.woocommerce button.button.alt,
+.woocommerce input.button.alt,
+.footer .instagram-footer .readmore-button a,
+a.btn,
+a.comment-reply-link,
+input[type="submit"],
+input[type="button"],
+.category-filter ul li a,
+.woocommerce #review_form #respond .form-submit input,
+.woocommerce .widget_price_filter .price_slider_amount .button,
+.woocommerce div.product form.cart .button,
+.woocommerce #respond input#submit,
+.woocommerce a.button,
+.woocommerce button.button,
+.woocommerce input.button {
+    border-top: 0px solid;
+    border-bottom: 0px solid;
+    border-left: 0px solid;
+    border-right: 0px solid;
+}
+
+.home .logo {
+    margin-top: 80px;
+    margin-bottom: 90px;
+}
+
+body:not(.home) .logo {
+    margin-top: 80px;
+    margin-bottom: 90px;
+}
+
+.footer .logo {
+    margin-top: 80px;
+    margin-bottom: 90px;
+}
+
+.logo_tagline {
+    font-family: Poppins;
+    text-transform: uppercase;
+    line-height: 10px;
+    letter-spacing: 8px;
+    font-weight: 400;
+    font-style: normal;
+    color: #635f5c;
+    font-size: 10px;
+    font-display: swap;
+}
+
+.primary-menu .mega-menu-posts .post-date,
+.primary-menu .widget-in-menu .meta-space-top,
+.primary-menu .widget-in-menu .meta-space-top a {
+    color: #BBBBBB;
+}
+
+.megamenu-post-header {
+    padding-top: 0px;
+    padding-right: 0px;
+    padding-bottom: 0px;
+    padding-left: 0px;
+}
+
+.primary-menu>li>a,
+.mobile-top-panel a {
+    font-family: Poppins;
+    text-align: left;
+    text-transform: uppercase;
+    line-height: 20px;
+    letter-spacing: 2px;
+    font-weight: 600;
+    font-style: normal;
+    color: #212121;
+    font-size: 10px;
+    font-display: swap;
+}
+
+span.sub {
+    font-family: Cormorant;
+    text-align: center;
+    text-transform: none;
+    line-height: 13px;
+    letter-spacing: 1px;
+    font-weight: 400;
+    font-style: italic;
+    color: #7c7c7c;
+    font-size: 13px;
+    font-display: swap;
+}
+
+.primary-menu a,
+.icon-menu a {
+    padding-top: 20px;
+    padding-right: 16px;
+    padding-bottom: 20px;
+    padding-left: 16px;
+}
+
+.primary-menu>li>a,
+.icon-menu a {
+    margin-right: 0px;
+    margin-left: 0px;
+}
+
+.primary-menu li ul li:not(.buzzblogpro-widget-menu) a,
+.primary-menu .has-mega-column:not(.widget-in-menu)>.sub-menu a,
+.primary-menu .mega-menu-posts .post a:not(.reviewscore),
+.buzzblogpro-widget-menu .form-control {
+    font-family: "Cormorant Garamond";
+    text-align: left;
+    text-transform: none;
+    line-height: 20px;
+    letter-spacing: 0px;
+    font-weight: 400;
+    font-style: normal;
+    color: #4d4d4d;
+    font-size: 16px;
+    font-display: swap;
+}
+
+.primary-menu .has-mega-column>.sub-menu>.columns-sub-item>a,
+.primary-menu .buzzblogpro-mc-form h4 {
+    line-height: 20px;
+    letter-spacing: 0px;
+    font-weight: 700;
+    font-style: normal;
+    color: #222222;
+    font-size: 16px;
+    font-display: swap;
+}
+
+.mobile-top-panel a:hover {
+    color: #ccb391;
+}
+
+.mobile-top-panel a:active {
+    color: #ccb391;
+}
+
+.primary-menu .sub-menu,
+.primary-menu .has-mega-sub-menu .mega-sub-menu,
+.primary-menu .has-mega-column>.sub-menu,
+#cart-wrap,
+.primary-menu .loading .mega-menu-posts:after {
+    background: #ffffff;
+}
+
+.primary-menu>li>ul,
+.primary-menu ul li:not(.buzzblogpro-widget-menu)>ul {
+    padding-top: 15px;
+    padding-right: 20px;
+    padding-bottom: 15px;
+    padding-left: 30px;
+}
+
+.primary-menu ul a,
+.navbar-fixed-top .primary-menu ul a {
+    padding-top: 14px;
+    padding-right: 22px;
+    padding-bottom: 14px;
+    padding-left: 22px;
+}
+
+.primary-menu .has-mega-column>.sub-menu,
+.primary-menu .has-mega-sub-menu .mega-sub-menu,
+.primary-menu>li>ul,
+.primary-menu ul li:not(.buzzblogpro-widget-menu)>ul,
+#cart-wrap {
+    border-top: 1px solid #f0ebe6;
+    border-bottom: 0px solid #f0ebe6;
+    border-left: 0px solid #f0ebe6;
+    border-right: 0px solid #f0ebe6;
+}
+
+.primary-menu li:not(.widget-in-menu) ul li a,
+.primary-menu .has-mega-column:not(.widget-in-menu)>.sub-menu a {
+    background: #ffffff;
+}
+
+.primary-menu li:not(.widget-in-menu) ul li:hover>a,
+.primary-menu .has-mega-column:not(.widget-in-menu)>.sub-menu a:hover,
+.primary-menu li ul li.active-link:not(.buzzblogpro-widget-menu) a {
+    background: #ffffff;
+}
+
+.primary-menu li:not(.widget-in-menu) ul li.current-menu-item>a,
+.primary-menu .has-mega-column>.sub-menu .current-menu-item>a {
+    background: #ffffff;
+}
+
+.sticky-wrapper,
+#primary,
+.sticky-nav,
+.top-container-normal,
+.top-container-full-no-sticky,
+.shadow-menu,
+.mobile-top-panel {
+    background: #f8f5f1;
+}
+
+.navbar-fixed .sticky-wrapper,
+.navbar-fixed .sticky-nav,
+.navbar-fixed .shadow-menu {
+    background: #f8f5f1;
+}
+
+.st-menu {
+    background-color: #ffffff;
+    background-repeat: repeat;
+    background-attachment: scroll;
+    background-position: left top;
+    background-image: url('wp-content/uploads/sites/22/2019/06/wave-pattern.png');
+    background-size: inherit;
+}
+
+.st-menu:before {
+    background: rgba(240, 235, 230, 0.26);
+}
+
+.menu-mobile ul li a {
+    font-family: "Cormorant Garamond";
+    text-transform: none;
+    line-height: 24px;
+    letter-spacing: -1px;
+    font-weight: 400;
+    font-style: normal;
+    color: #ffffff;
+    font-size: 24px;
+    font-display: swap;
+}
+
+.menu-mobile ul ul li a {
+    line-height: 16px;
+    font-size: 16px;
+    font-display: swap;
+}
+
+.menu-mobile ul li a,
+ul li.has-subnav .accordion-btn {
+    color: #000000;
+}
+
+.menu-mobile ul li a:hover,
+ul li.has-subnav .accordion-btn:hover {
+    color: #ccb391;
+}
+
+.menu-mobile ul li a:active,
+ul li.has-subnav .accordion-btn:active {
+    color: #ccb391;
+}
+
+.menu-mobile ul li a span.sub {
+    color: #d8d8d8;
+}
+
+.menu-mobile ul li,
+.menu-mobile ul ul ul {
+    border-top: 1px dashed #f0ebe6;
+}
+
+h1.post-title {
+    font-family: "Cormorant Garamond";
+    text-align: center;
+    text-transform: none;
+    line-height: 62px;
+    letter-spacing: -1px;
+    font-weight: 700;
+    font-style: normal;
+    color: #000000;
+    font-size: 50px;
+    font-display: swap;
+}
+
+.post-header h2 a,
+h2.post-title {
+    font-family: "Cormorant Garamond";
+    text-align: center;
+    text-transform: none;
+    line-height: 38px;
+    letter-spacing: -1px;
+    font-weight: 700;
+    font-style: normal;
+    color: #000000;
+    font-size: 35px;
+    font-display: swap;
+}
+
+.excerpt p,
+.excerpt {
+    font-family: "Cormorant Garamond";
+    text-align: center;
+    text-transform: none;
+    line-height: 26px;
+    letter-spacing: 0px;
+    font-weight: 400;
+    font-style: normal;
+    color: #000000;
+    font-size: 19px;
+    font-display: swap;
+}
+
+.post .post_category a {
+    font-family: Poppins;
+    text-transform: uppercase;
+    line-height: 26px;
+    letter-spacing: 0px;
+    font-weight: 400;
+    font-style: normal;
+    color: #444444;
+    font-size: 10px;
+    font-display: swap;
+}
+
+.meta-space-top,
+.meta-space-top span,
+.meta-space-top span a,
+.meta-space-top a {
+    font-family: Poppins;
+    text-transform: uppercase;
+    line-height: 26px;
+    letter-spacing: 1.5px;
+    font-weight: 400;
+    font-style: normal;
+    color: #000000;
+    font-size: 9px;
+    font-display: swap;
+}
+
+blockquote,
+.excerpt blockquote p {
+    font-family: "Cormorant Garamond";
+    text-align: center;
+    text-transform: none;
+    line-height: 45px;
+    letter-spacing: 0px;
+    font-weight: 600;
+    font-style: italic;
+    color: #424242;
+    font-size: 35px;
+    font-display: swap;
+}
+
+.post-header h2 a:hover {
+    color: #bbbbbb;
+}
+
+body:not(.single) .post__holder {
+    padding-top: 0px;
+    padding-right: 0px;
+    padding-bottom: 0px;
+    padding-left: 0px;
+}
+
+.single .isopad,
+.related-posts,
+.author .post-author-box {
+    padding-top: 0px;
+    padding-right: 0px;
+    padding-bottom: 0px;
+    padding-left: 0px;
+}
+
+.post__holder .post-header {
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+
+body:not(.single) .post__holder,
+.single .post__holder .isopad,
+.related-posts,
+.post-author .post-author-box {
+    background-color: #ffffff;
+}
+
+.paglink a,
+.paging a h5 {
+    color: #000000;
+}
+
+.paglink a:hover,
+.paging a h5:hover {
+    color: #000000;
+}
+
+.most-commented {
+    background-color: #ffffff;
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-position: center top;
+    background-image: url('wp-content/uploads/sites/22/2018/03/demo-14.html');
+    background-size: cover;
+}
+
+.related-posts h6 a {
+    color: #000000;
+}
+
+.related-posts h6 a:hover {
+    color: #999999;
+}
+
+.viewpost-button .button {
+    font-family: "Cormorant Garamond";
+    text-align: center;
+    text-transform: none;
+    line-height: 26px;
+    letter-spacing: 0px;
+    font-weight: 700;
+    font-style: normal;
+    font-size: 14px;
+    font-display: swap;
+}
+
+.viewpost-button a.button {
+    color: #000000;
+}
+
+.viewpost-button a.button:hover {
+    color: #000000;
+}
+
+.viewpost-button a.button {
+    border-top: 0px solid;
+    border-bottom: 0px solid;
+    border-left: 0px solid;
+    border-right: 0px solid;
+}
+
+.viewpost-button a.button,
+.primary-menu li ul .buzzblogpro-widget-menu .viewpost-button a.button {
+    padding-top: 8px;
+    padding-right: 24px;
+    padding-bottom: 8px;
+    padding-left: 24px;
+}
+
+.ribbon-featured {
+    border-top: 0px solid #efeae5;
+    border-bottom: 0px solid #efeae5;
+    border-left: 0px solid #efeae5;
+    border-right: 0px solid #efeae5;
+}
+
+.grid .grid-item .post-header h2 a,
+.grid .grid-item h2.post-title,
+.post-grid-block h2.grid-post-title a,
+.post-grid-block h2.grid-post-title {
+    font-family: "Cormorant Garamond";
+    text-align: center;
+    text-transform: none;
+    line-height: 24px;
+    letter-spacing: -1px;
+    font-weight: 700;
+    font-style: normal;
+    color: #000000;
+    font-size: 22px;
+    font-display: swap;
+}
+
+.grid .post-header h2 a:hover {
+    color: #444444;
+}
+
+.grid .grid-block article,
+.zoom-gallery .post-header {
+    padding-top: 30px;
+    padding-right: 0px;
+    padding-bottom: 0px;
+    padding-left: 0px;
+}
+
+.grid .grid-item,
+.zoom-gallery .grid-block {
+    margin-bottom: 64px;
+}
+
+.grid .grid-block {
+    background-color: #ffffff;
+}
+
+.list-post h2.list-post-title a,
+.list-post h2.list-post-title {
+    font-family: "Cormorant Garamond";
+    text-align: left;
+    text-transform: none;
+    line-height: 37px;
+    letter-spacing: -1px;
+    font-weight: 700;
+    font-style: normal;
+    color: #000000;
+    font-size: 32px;
+    font-display: swap;
+}
+
+.list-post h2.list-post-title a:hover {
+    color: #dddddd;
+}
+
+.list-post .block .post_content {
+    padding-top: 0px;
+    padding-right: 0px;
+    padding-bottom: 30px;
+    padding-left: 0px;
+}
+
+.list-post .block {
+    margin-bottom: 32px;
+}
+
+.list-post .list-post-container .post_content {
+    background-color: #ffffff;
+}
+
+.zigazg h2.list-post-title a,
+.zigazg h2.list-post-title {
+    font-family: "Cormorant Garamond";
+    text-align: center;
+    text-transform: none;
+    line-height: 42px;
+    letter-spacing: -1px;
+    font-weight: 700;
+    font-style: normal;
+    color: #282828;
+    font-size: 38px;
+    font-display: swap;
+}
+
+.zigazg h2.list-post-title a:hover {
+    color: #222222;
+}
+
+.list-post .block .list_post_content.zigazg {
+    padding-top: 0px;
+    padding-right: 0px;
+    padding-bottom: 0px;
+    padding-left: 0px;
+}
+
+.zigazg .post-header {
+    padding-right: 80px;
+    padding-left: 80px;
+}
+
+.zigzag.list-post .block {
+    margin-bottom: 64px;
+}
+
+.title-section h1 {
+    font-family: "Cormorant Garamond";
+    text-align: center;
+    line-height: 52px;
+    letter-spacing: -1px;
+    font-weight: 700;
+    font-style: normal;
+    color: #000000;
+    font-size: 52px;
+    font-display: swap;
+}
+
+.title-section h2,
+h2.post-subtitle {
+    font-family: "Cormorant Garamond";
+    text-align: center;
+    text-transform: inherit;
+    line-height: 26px;
+    letter-spacing: 0px;
+    font-weight: 400;
+    font-style: normal;
+    color: #999999;
+    font-size: 20px;
+    font-display: swap;
+}
+
+.page:not(.page-template-page-archives) .isopad {
+    padding-top: 0px;
+    padding-right: 0px;
+    padding-bottom: 0px;
+    padding-left: 0px;
+}
+
+.page:not(.page-template-page-archives) .isopad {
+    background-color: #ffffff;
+}
+
+.category .parallax-image {
+    margin-top: 0px;
+    margin-bottom: 60px;
+}
+
+.slideshow-bg {
+    background-color: #ffffff;
+    background-repeat: repeat;
+    background-attachment: scroll;
+    background-position: left top;
+    background-image: url('wp-content/uploads/sites/22/2019/06/wave-pattern.png');
+    background-size: inherit;
+}
+
+.slideshow-inside .top-slideshow,
+.slideshow-bg {
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+.slideshow-inside .top-slideshow,
+.slideshow-bg {
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+
+a.slideshow-btn {
+    color: #4d4d4d;
+}
+
+a.slideshow-btn:hover {
+    color: #666666;
+}
+
+a.slideshow-btn {
+    border-top: 1px solid;
+    border-bottom: 1px solid;
+    border-left: 1px solid;
+    border-right: 1px solid;
+}
+
+a.slideshow-btn {
+    padding-top: 8px;
+    padding-right: 20px;
+    padding-bottom: 8px;
+    padding-left: 20px;
+}
+
+.top-slideshow .cover-content,
+.left-fullheight .text-container {
+    background: rgba(248, 245, 241, 0.95);
+}
+
+.carousel-wrap h2 {
+    font-family: "Cormorant Garamond";
+    line-height: 36px;
+    letter-spacing: -1px;
+    font-weight: 700;
+    font-style: normal;
+    color: #000000;
+    font-size: 32px;
+    font-display: swap;
+}
+
+.slideshow .meta-space-top,
+.slideshow .meta-space-top a,
+.slideshow .excerpt p {
+    color: #635f5c;
+}
+
+.trending-posts h6.trending-title {
+    font-family: Montserrat;
+    text-align: center;
+    text-transform: none;
+    line-height: 20px;
+    letter-spacing: 0px;
+    font-weight: 700;
+    font-style: normal;
+    color: #4d4d4d;
+    font-size: 18px;
+    font-display: swap;
+}
+
+.trending-posts {
+    border-top: 0px solid #eeeeee;
+    border-bottom: 0px solid #eeeeee;
+}
+
+.trending-posts {
+    background-color: #ffffff;
+}
+
+.trending-posts {
+    margin-top: 32px;
+    margin-bottom: 32px;
+}
+
+.trending-posts {
+    padding-top: 30px;
+    padding-right: 0px;
+    padding-bottom: 30px;
+    padding-left: 0px;
+}
+
+.slideshow.promo .cover-wrapper::before {
+    border-top: 0px solid #ffffff;
+    border-bottom: 0px solid #ffffff;
+    border-left: 0px solid #ffffff;
+    border-right: 0px solid #ffffff;
+}
+
+.promo .cover:before {
+    background: rgba(0, 0, 0, 0.02);
+}
+
+.slideshow.promo {
+    margin-top: 60px;
+    margin-bottom: 32px;
+}
+
+.shareon {
+    font-display: swap;
+}
+
+.share-buttons a {
+    line-height: 13px;
+    font-size: 13px;
+    font-display: swap;
+}
+
+article a.hs-icon,
+.author-social a.hs-icon,
+.list_post_content a.hs-icon {
+    color: #000000;
+}
+
+article a.hs-icon:hover,
+.author-social a.hs-icon:hover,
+.list_post_content a.hs-icon:hover {
+    color: #ccb391;
+}
+
+.bottom-meta {
+    border-top: 0px none #eeeeee;
+    border-bottom: 0px none #eeeeee;
+    border-left: 0px none #eeeeee;
+    border-right: 0px none #eeeeee;
+}
+
+.bottom-meta {
+    margin-top: 30px;
+    margin-bottom: 0px;
+}
+
+.bottom-meta {
+    padding-top: 20px;
+    padding-bottom: 0px;
+}
+
+.social-side-fixed a {
+    color: #4d4d4d;
+}
+
+.social-side-fixed a:hover {
+    color: #ffffff;
+}
+
+.social-side-fixed a {
+    background: #ffffff;
+}
+
+.social-side-fixed a:hover {
+    background: #dcb8ad;
+}
+
+h3.gall-title {
+    font-family: "Cormorant Garamond";
+    text-align: center;
+    text-transform: none;
+    line-height: 26px;
+    letter-spacing: 0px;
+    font-weight: 700;
+    font-style: normal;
+    color: #222222;
+    font-size: 21px;
+    font-display: swap;
+}
+
+.gallery-meta-line,
+.gallery-meta-line h4 {
+    font-family: "Cormorant Garamond";
+    text-align: left;
+    text-transform: none;
+    line-height: 20px;
+    letter-spacing: 0px;
+    font-weight: 700;
+    font-style: normal;
+    color: #000000;
+    font-size: 19px;
+    font-display: swap;
+}
+
+.sidebar .widget .widget-content,
+.wpb_widgetised_column .widget {
+    padding-top: 0px;
+    padding-right: 0px;
+    padding-bottom: 30px;
+    padding-left: 0px;
+}
+
+.sidebar .widget,
+.wpb_widgetised_column .widget {
+    border-top: 0px dotted #cccccc;
+    border-bottom: 0px dotted #cccccc;
+    border-left: 0px dotted #cccccc;
+    border-right: 0px dotted #cccccc;
+}
+
+.widget .widget-content {
+    font-display: swap;
+}
+
+.widget-content h4.subtitle,
+.widget-content h4.subtitle a,
+.sidebar .instagram_footer_heading h4 span,
+.elementor-widget-container h5 {
+    font-family: "Cormorant Garamond";
+    text-align: left;
+    text-transform: none;
+    line-height: 24px;
+    letter-spacing: 0px;
+    font-weight: 400;
+    font-style: normal;
+    color: #000000;
+    font-size: 20px;
+    font-display: swap;
+}
+
+.widget-content h4.subtitle,
+.elementor-widget-container h5 {
+    margin-top: 0px;
+    margin-bottom: 26px;
+}
+
+.widget-content h4.subtitle,
+.elementor-widget-container h5 {
+    padding-top: 12px;
+    padding-right: 0px;
+    padding-bottom: 12px;
+    padding-left: 0px;
+}
+
+.widget-content h4.subtitle,
+.elementor-widget-container h5 {
+    border-top: 0px double #f0ebe6;
+    border-bottom: 4px double #f0ebe6;
+    border-left: 0px double #f0ebe6;
+    border-right: 0px double #f0ebe6;
+}
+
+.sidebar .widget .widget-content {
+    background-color: #ffffff;
+}
+
+.widget-content h4.subtitle,
+.elementor-widget-container h5 {
+    background-color: #ffffff;
+}
+
+.my_posts_type_widget h4 a {
+    color: #000000;
+}
+
+.my_posts_type_widget h4 a:hover {
+    color: #ccb391;
+}
+
+.post-list_h h4 a,
+.post-list_h h4 {
+    font-family: "Cormorant Garamond";
+    text-align: center;
+    text-transform: none;
+    line-height: 30px;
+    letter-spacing: 0px;
+    font-weight: 700;
+    font-style: normal;
+    color: #000000;
+    font-size: 26px;
+    font-display: swap;
+}
+
+.widget-content h4 a.see-all {
+    font-family: "Playfair Display";
+    text-align: center;
+    line-height: 24px;
+    letter-spacing: 0px;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 13px;
+    font-display: swap;
+}
+
+.widget-content h4 a.see-all {
+    color: #000000;
+}
+
+.widget-content h4 a.see-all:hover {
+    color: #dddddd;
+}
+
+.bottom-widgets-column {
+    background-color: transparent;
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-position: left top;
+    background-size: cover;
+}
+
+.bottom-widgets-column .container {
+    padding-top: 45px;
+    padding-bottom: 60px;
+}
+
+.nav.footer-nav a {
+    font-family: "Cormorant Garamond";
+    line-height: 26px;
+    letter-spacing: 0px;
+    font-weight: 400;
+    font-style: normal;
+    color: #4d4d4d;
+    font-size: 12px;
+    font-display: swap;
+}
+
+.nav.footer-nav ul li a:hover {
+    color: #bbbbbb;
+}
+
+.footer-text,
+.footer .social__list_both .social_label,
+.bottom-widgets-column {
+    color: #000000;
+}
+
+.footer .logo a {
+    color: #000000;
+}
+
+.footer .logo a:hover {
+    color: #000000;
+}
+
+.footer .logo_tagline {
+    color: #000000;
+}
+
+.footer {
+    background-color: #f0ebe6;
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-position: left top;
+    background-size: cover;
+}
+
+.footer {
+    border-top: 0px none #eeeeee;
+    border-bottom: 0px none #eeeeee;
+}
+
+.footer a,
+.footer .services a .label {
+    color: #000000;
+}
+
+.footer a:hover,
+.footer .services a .label:hover {
+    color: #ccb391;
+}
+
+.lowestfooter {
+    background-color: #ffffff;
+}
+
+.footer .instagram_footer_heading h4,
+.footer .instagram_footer_heading a {
+    color: #000000;
+}
+
+.footer .instagram-footer {
+    background-color: transparent;
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-position: left top;
+    background-size: cover;
+}
+
+.review-box .progress.active .bar {
+    background: #f8f5f1;
+}
+
+.review-box .review-score,
+.thumbnail .review {
+    background: #c5b8a5;
+}
+
+.review-box .review-score,
+.thumbnail .review span,
+.thumbnail .review span a,
+.thumbnail .review span a:hover {
+    color: #212121;
+}
