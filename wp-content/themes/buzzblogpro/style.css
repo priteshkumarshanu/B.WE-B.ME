@@ -6110,7 +6110,7 @@ article .post-content img {
     margin-bottom: 0px;
 	}
 .featured-thumbnail.large img { 
-  height: auto;width: 100%;
+  height: auto;width: 50%;
 }
 .image-wrap {position: relative;}
 .post-circle {text-align:center;}

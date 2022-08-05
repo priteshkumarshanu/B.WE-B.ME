@@ -163,3 +163,32 @@
 		});
 	} );
 } )( jQuery );
+
+
+// var header = document.getElementById("myDIV");
+// var btns = header.getElementsByClassName("btn");
+// for (var i = 0; i < btns.length; i++) {
+//   btns[i].addEventListener("click", function() {
+//   var current = document.getElementsByClassName("active");
+//   current[0].className = current[0].className.replace(" active", "");
+//   this.className += " active";
+//   });
+// }
+// $(function(){
+// 	debugger;
+//     var current = location.pathname;
+//     $('#nav ul li a').each(function(){
+//         var $this = $(this);
+//         // if the current path is like this link, make it active
+//         if($this.attr('href').indexOf(current) !== -1){
+//             $this.addClass('current-menu-item current_page_item');
+//         }
+//     })
+// })
+
+
+// $('.make-active a').on('click', function(){
+// 	alert(this);
+//     $('.make-active').removeClass('');
+//     $(this).addClass('current-menu-item current_page_item');
+// });
